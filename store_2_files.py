@@ -16,7 +16,7 @@ class Store(object):
     cart_price = []
     user_name = "preethi"
     user_password = "admin123"
-    sender = 'preethi.shettigar20@gmail.com'
+    sender = 'preethi.p@centelon.com'
 
     def __init__(self, name, password):
         """
