@@ -2,8 +2,8 @@
 import smtplib
 import store as receipt
 from sys import exit
-EMAIL_ADDRESS = 'preethi.shettigar20@gmail.com'
-EMAIL_PASSWORD = 'Mahirocks13$'
+EMAIL_ADDRESS = 'preethi.p@centelon.com'
+EMAIL_PASSWORD = 'Mahirocks@1'
 
 print receipt.RECEIPT_ELEMENTS
 
