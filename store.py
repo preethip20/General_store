@@ -4,8 +4,8 @@ from sys import exit
 import texttable as tt
 REGISTER_USER = {'preethi': 'admin123'}
 RECEIPT_ELEMENTS = []
-EMAIL_ADDRESS = 'preethi.shettigar20@gmail.com'
-EMAIL_PASSWORD = 'Mahirocks13$'
+EMAIL_ADDRESS = 'preethi.p@centelon.com'
+EMAIL_PASSWORD = 'Mahirocks@1'
 
 
 class Store(object):
